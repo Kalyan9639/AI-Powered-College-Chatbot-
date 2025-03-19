@@ -17,4 +17,4 @@ In this project, I had created an AI chatbot for hackathon program held in my co
 
 
 
-![image](https://github.com/user-attachments/assets/9362920e-6de1-4bc4-9142-36e5bd772293)
+
