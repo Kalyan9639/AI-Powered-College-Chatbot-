@@ -10,10 +10,10 @@ In this project, I had created an AI chatbot for hackathon program held in my co
 
 # Technologies and Libraries Used:
 
-> Programming Language: Python
-> Streamlit – UI for chatbot interface
-> spaCy – NLP for keyword detection
-> Ollama – LLM-based intelligent responses`
+> Programming Language: Python,
+> Streamlit – UI for chatbot interface,
+> spaCy – NLP for keyword detection,
+> Ollama – LLM-based intelligent responses
 
 
 
